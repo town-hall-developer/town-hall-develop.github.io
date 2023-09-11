@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "start": "2023-09-10 00:00:00",
   "end": "2023-09-12 00:00:00",
   "message": "점검중입니다."
