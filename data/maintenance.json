@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "start": "2023-09-24 01:00:00",
   "end": "2023-09-24 05:00:00",
   "message": "점검 중입니다. 이용에 불편을 드려 죄송합니다."
